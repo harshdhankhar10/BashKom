@@ -133,7 +133,7 @@ const Login = () => {
           )}
           <div className="mt-4 flex items-center justify-between">
             <span className="border-b w-1/5 md:w-1/4"></span>
-            <Link to="/register" className="text-xs text-gray-500 uppercase">or sign up</Link>
+            <Link to="/registration" className="text-xs text-gray-500 uppercase">or sign up</Link>
             <span className="border-b w-1/5 md:w-1/4"></span>
           </div>
           <button
